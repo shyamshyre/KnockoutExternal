@@ -36,7 +36,7 @@
             pageTitle: "Knockout: Anonymous Bindings",
             personal: {
                 link: "http://twitter.com/john_papa",
-                text: "@john_papa"
+                text: "@shyamshyre"
             }
         },
         products = ko.observableArray([]),
